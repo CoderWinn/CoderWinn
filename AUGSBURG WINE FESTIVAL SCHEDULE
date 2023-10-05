@@ -1,0 +1,34 @@
+<DOCTYPE.html>
+<html>
+<table>
+<tr>
+  <thead>
+<th>AUGSBURG WINE FESTIVAL</th></thead>
+</tr>
+<tr>
+<th>MONDAY</th>
+<th>TUESDAY</th>
+<th>WEDNESDAY</th>
+<th>THURSDAY</th>
+</tr>
+<tr><td scope="row">Red wine"<td/>
+<td scope="row">White wine"<td/>
+<td scope="row">Rose wine"<td/>
+<td scope="row">Mulled wine"<td/>
+</tr>
+<td scope="row">Red wine"<td/>
+<td scope="row">White wine"<td/>
+<td scope="row">Rose wine"<td/>
+<td scope="row">Mulled wine"<td/>
+<tr><td scope="row">Red wine"<td/>
+<td scope="row">White wine"<td/>
+<td scope="row">Rose wine"<td/>
+<td scope="row">Mulled wine"<td/>
+</tr>
+<tfoot>
+  <tr>
+    <td colspan="4"> </td> Alles Gute!</td>
+  </tr>
+</tfoot>
+</table>
+</html>
